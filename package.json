@@ -1,0 +1,25 @@
+{
+  "name": "SlideStrips",
+  "version": "1.0.1",
+  "description": "A lightweight slide strips plugin for javascript (FORK).",
+  "author": {
+    "name": "Eric J. Basti",
+    "url": "http://www.ericjbasti.com/"
+  },
+  "main": "./jquery.slideStrips.v1.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericjbasti/SlideStrips"
+  },
+  "bugs": {
+    "url": "https://github.com/ericjbasti/SlideStrips/issues"
+  },
+  "keywords": [
+    "slide",
+    "strips",
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "*"
+  }
+}
